@@ -1,0 +1,9 @@
+{
+	"properties": [
+		{
+			"name": "spring.kafka.producer.name",
+			"type": "java.lang.String",
+			"description": "This property contains the name of new topic"
+		}
+	]
+}
